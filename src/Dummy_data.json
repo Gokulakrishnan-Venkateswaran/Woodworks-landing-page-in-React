@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "title": "Hand Base Lamp",
+    "offerPrice": "$35.00",
+    "oldPrice": "$55.00",
+    "image": "images/image.png"
+  },
+  {
+    "id": "p2",
+    "title": "Vintage Chair",
+    "offerPrice": "$65.00",
+    "oldPrice": "$95.00",
+    "image": "images/image-5.png"
+  },
+  {
+    "id": "p3",
+    "title": "Lamp Tool",
+    "offerPrice": "$35.00",
+    "oldPrice": "$45.00",
+    "image": "images/image-2.png"
+  },
+  {
+    "id": "p4",
+    "title": "Stylish Chair",
+    "offerPrice": "$45.00",
+    "oldPrice": "$65.00",
+    "image": "images/image-1.png"
+  },
+  {
+    "id": "p5",
+    "title": "Vintage Chair",
+    "offerPrice": "$65.00",
+    "oldPrice": "$95.00",
+    "image": "images/image-4.png"
+  },
+  {
+    "id": "p6",
+    "title": "Stackable Chair",
+    "offerPrice": "$87.00",
+    "oldPrice": "$97.00",
+    "image": "images/image-3.png"
+  }
+]

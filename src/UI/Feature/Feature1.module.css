@@ -1,0 +1,43 @@
+.feature1 {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.feature1 h1 {
+  font-family: Google Sans;
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 76px;
+  color: var(--color-h1);
+}
+
+.feature1 h3 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: var(--color-h1);
+  margin-top: 2rem;
+}
+
+.feature1 p {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-subtext);
+  margin-top: 1.2rem;
+}
+
+@media screen and (max-width: 900px) {
+}
+
+@media screen and (max-width: 700px) {
+}
+
+@media screen and (max-width: 600px) {
+}
+
+@media screen and (max-width: 450px) {
+}

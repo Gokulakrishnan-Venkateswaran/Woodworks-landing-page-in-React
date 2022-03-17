@@ -1,0 +1,75 @@
+.card {
+  width: 312px;
+  height: 440px;
+  background: white;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card .blue {
+  background-color: var(--color-blog);
+  width: 100%;
+  height: 305px;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  top: -15px;
+  right: -270px;
+  z-index: 2;
+}
+
+.blue h3 {
+  font-family: Google Sans;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 33px;
+  color: var(--color-text);
+  padding: 0 2rem;
+}
+
+.prices {
+  display: flex;
+}
+
+.card .blue p:first-child {
+  font-family: Google Sans;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 24px;
+  color: var(--color-text);
+  padding-top: 1.2rem;
+  padding-left: 2rem;
+}
+
+.blue .strike {
+  font-family: Google Sans;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 19px;
+  text-decoration-line: line-through;
+  color: #a9a7a6;
+  padding-top: 1.4rem;
+  padding-left: 2rem;
+}
+
+.image {
+  position: absolute;
+  top: 40%;
+  z-index: 3;
+}
+
+.image img {
+  width: 220px;
+  height: 300px;
+
+  object-fit: cover;
+}
